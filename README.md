@@ -1,3 +1,1 @@
-# hello-world
-
-Hello! I'm Mana. I'm Japanese.
+$ echo 'print("hello world")' > hello.py
