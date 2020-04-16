@@ -35,4 +35,19 @@
    - False
    - True
 5. ==, !=, <, >,<= and >=.
-6.
+6. == is the equal to operator that compares two values and evaluates to a Boolean. On the other hand, 
+   = is the assignment operator that stores a value in a variable.
+7. A condition is an expression used in a flow control statement that evaluates to a Boolean value.
+8. The three blocks are everything inside the if statement ansd the lines.
+   print('eggs')
+   if spam > 5:
+      print('bacon')
+   else:
+      print('ham')
+   print('spam')
+   
+ 10. control + c
+ 11. The break statement can move teh execution outside and just after a loop. The continue statemet can
+     move the execution to the start of the loop.
+ 12. They are all same things. 
+ 14. spam.bacon()
