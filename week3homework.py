@@ -8,7 +8,7 @@ def one_sentence():
     print(str(random.choice(subject_list)) + ' ' + str(random.choice(verb_list)) + ' ' + str(random.choice(object_list)))
 
 def singular():
-    subject_list_2 =['He', 'She']
+    subject_list_2 =['he', 'she']
     verb_list_2 = ['likes', 'has','uses','brings']
     print(str(random.choice(subject_list_2)) + ' ' + str(random.choice(verb_list_2)) + ' ' + str(random.choice(object_list)) + '.')
 
